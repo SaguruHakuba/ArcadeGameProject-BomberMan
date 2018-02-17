@@ -1,0 +1,21 @@
+lianga  10 hours
+cais1   10 hours
+
+the bomb can explode and have all the reactions with bricks, monsters, bomb and heros.              Works
+the hero can be killed by monsters.                                                                 Works
+the game can be paused by "p".                                                                      Works
+the power-up can show up now but all power-up cannot be used currently.                             Works
+each hero can have 2 bombs at the beginning but we may change it to 1 after.                        Works
+we have a kind of monster now called goomba.                                                        Works
+
+
+
+We will have power-up work next time.
+
+By the way, we had our "u" and "d" occupied by other usages, so we used "-" and "=" to change the levels. Hope we can get the lost points back.
+
+
+
+
+
+we like our work VERY MUCH and we will work hard for cycle 3.

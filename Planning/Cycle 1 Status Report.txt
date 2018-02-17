@@ -1,0 +1,17 @@
+lianga  12 hours
+cais1   12 hours
+
+Levels loading from files                                                 Works
+Walls that the player cannot move through                                 Works
+A hero that can move and drop a bomb with "M", but not exploding          Works
+Switching between loaded levels with "=" and "-"                          Works
+
+
+
+
+we also implemented the two-player mode, time counting in the display label
+
+
+
+
+we like it very much and we will work hard fro cycle 2
